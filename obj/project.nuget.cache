@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pgn0zDL2pwW7/6WZ3FDyse1ecCgwwq7EMMemee4pYTsh2vYXf7evVAcFy9v7d4iwjyIFnl66NY5TvVbRkfLaHQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\SupportInterview\\SupportInterview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
